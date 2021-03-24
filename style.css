@@ -1,0 +1,14 @@
+header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style:unset;
+    font-size: 30px;
+}
+
+
+button{
+    background-color: aquamarine;
+    border-radius: 5px;
+    font-size: large;
+    color: blueviolet;
+};
